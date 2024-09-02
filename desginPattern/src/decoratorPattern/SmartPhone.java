@@ -1,7 +1,7 @@
 package decoratorPattern;
 
 // 공통 기능
-public interface Component {
+public interface SmartPhone {
     void alarm();
     void calendar();
     void internet();

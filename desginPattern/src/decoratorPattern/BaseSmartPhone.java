@@ -1,7 +1,7 @@
 package decoratorPattern;
 
 // 기본 구현된 기존 기능들 (ConcreteComponent)
-public class SmartPhone implements Component{
+public class BaseSmartPhone implements SmartPhone {
     @Override
     public void alarm() {
         System.out.println("알람 APP");

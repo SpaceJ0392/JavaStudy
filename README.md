@@ -7,7 +7,7 @@
 - 차후 추가 예정...
 ---
 
-- 학습 내용 정리 블로그 : (추가 예정)
+- 학습 내용 정리 블로그 : [https://velog.io/@jwj0392](https://velog.io/@jwj0392)
 - git 커미션
      ```java
         git commit -m "[내용 간략 정리]
